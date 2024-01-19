@@ -4,7 +4,9 @@
 
 This project is a simple car-sharing service implemented in Java using a database and a console-based menu system. It allows users to manage car listings, create customer accounts, rent cars, and return rented cars per customer.
 
-The tasks for this project were provided by hyperskill.org, a platform for learning programming. The project is available at [Car Sharing - hyperskill.org](https://hyperskill.org/projects/140).
+The tasks for this project were provided by hyperskill.org, a platform for learning programming. 
+
+The project is available at [Car Sharing - hyperskill.org](https://hyperskill.org/projects/140).
 ## Features
 
 
